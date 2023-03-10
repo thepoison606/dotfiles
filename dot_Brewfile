@@ -1,0 +1,53 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+# Core application library for C
+brew "glib"
+# Manage your dotfiles across multiple diverse machines, securely
+brew "chezmoi"
+# International domain name library (IDNA2008, Punycode and TR46)
+brew "libidn2"
+# GNU Transport Layer Security (TLS) Library
+brew "gnutls"
+# OpenType text shaping engine
+brew "harfbuzz"
+# Subtitle renderer for the ASS/SSA subtitle format
+brew "libass"
+# Play, record, convert, and stream audio and video
+brew "ffmpeg"
+# GitHub command-line tool
+brew "gh"
+# Distributed revision control system
+brew "git"
+# Generate introspection data for GObject libraries
+brew "gobject-introspection"
+# Mac App Store command-line interface
+brew "mas"
+# Free (GNU) replacement for the Pico text editor
+brew "nano"
+# Open-source code editor
+cask "visual-studio-code"
+mas "Adobe Lightroom", id: 1451544217
+mas "AJA System Test Lite", id: 1092006274
+mas "Cinebench", id: 1438772273
+mas "Darkroom", id: 953286746
+mas "DaVinci Resolve", id: 571213070
+mas "Display Menu", id: 549083868
+mas "HomeControl", id: 1547121417
+mas "Image2icon", id: 992115977
+mas "Keynote", id: 409183694
+mas "LadioCast", id: 411213048
+mas "MediaInfo", id: 510620098
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Outlook", id: 985367838
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
+mas "NDI Monitor", id: 1111704079
+mas "Numbers", id: 409203825
+mas "OneDrive", id: 823766827
+mas "Pages", id: 409201541
+mas "Playgrounds", id: 1496833156
+mas "Slack", id: 803453959
+mas "Sync Folders Pro", id: 522706442
+mas "The Unarchiver", id: 425424353
+mas "Trello", id: 1278508951
+mas "Xcode", id: 497799835
